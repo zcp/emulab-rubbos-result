@@ -1,0 +1,33 @@
+09-Jan-2019 12:55:26.700 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.35
+09-Jan-2019 12:55:26.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 11 2016 21:57:08 UTC
+09-Jan-2019 12:55:26.716 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.35.0
+09-Jan-2019 12:55:26.718 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+09-Jan-2019 12:55:26.719 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            4.4.0-138-generic
+09-Jan-2019 12:55:26.720 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+09-Jan-2019 12:55:26.721 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-7-openjdk-amd64/jre
+09-Jan-2019 12:55:26.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_181-b01
+09-Jan-2019 12:55:26.723 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+09-Jan-2019 12:55:26.724 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/tomcat
+09-Jan-2019 12:55:26.725 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/tomcat
+09-Jan-2019 12:55:26.727 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/usr/local/tomcat/conf/logging.properties
+09-Jan-2019 12:55:26.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Jan-2019 12:55:26.730 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+09-Jan-2019 12:55:26.731 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Duser.timezone=America/New_York
+09-Jan-2019 12:55:26.732 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=/usr/local/tomcat/endorsed
+09-Jan-2019 12:55:26.733 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/usr/local/tomcat
+09-Jan-2019 12:55:26.734 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/usr/local/tomcat
+09-Jan-2019 12:55:26.735 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/usr/local/tomcat/temp
+09-Jan-2019 12:55:26.736 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library 1.2.7 using APR version 1.5.1.
+09-Jan-2019 12:55:26.737 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+09-Jan-2019 12:55:26.751 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized (OpenSSL 1.0.2h  3 May 2016)
+09-Jan-2019 12:55:27.227 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-apr-8080"]
+09-Jan-2019 12:55:27.314 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-apr-8009"]
+09-Jan-2019 12:55:27.322 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2703 ms
+09-Jan-2019 12:55:27.520 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+09-Jan-2019 12:55:27.522 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.35
+09-Jan-2019 12:55:27.611 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /usr/local/tomcat/webapps/rubbos
+09-Jan-2019 12:55:30.539 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Jan-2019 12:55:30.738 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /usr/local/tomcat/webapps/rubbos has finished in 3,126 ms
+09-Jan-2019 12:55:30.756 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-apr-8080"]
+09-Jan-2019 12:55:30.807 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-apr-8009"]
+09-Jan-2019 12:55:30.823 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 3500 ms
